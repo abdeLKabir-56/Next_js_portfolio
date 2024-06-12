@@ -1,6 +1,9 @@
 # Portfolio Website
 
 This is my personal portfolio website built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+# Screenshot
+
+![Portfolio Screenshot](public/screencapture-localhost-3000-2024-06-12-22_06_11.png)
 
 ## Table of Contents
 
